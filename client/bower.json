@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "license": "http://polymer.github.io/LICENSE.txt",
   "dependencies": {
-    "iron-elements": "PolymerElements/iron-elements#1.0.0",
-    "paper-elements": "PolymerElements/paper-elements#1.0.1",
-    "platinum-elements": "PolymerElements/platinum-elements#1.0.0",
+    "iron-elements": "https://github.com/PolymerElements/iron-elements#1.0.0",
+    "paper-elements": "https://github.com/PolymerElements/paper-elements#1.0.1",
+    "platinum-elements": "https://github.com/PolymerElements/platinum-elements#1.0.0",
     "page": "visionmedia/page.js#~1.6.3"
   },
   "devDependencies": {
     "web-component-tester": "*",
-    "test-fixture": "PolymerElements/test-fixture#^1.0.0"
+    "test-fixture": "https://github.com/PolymerElements/test-fixture#^1.0.0"
   },
   "resolutions": {
     "polymer": "^1.0.0",
