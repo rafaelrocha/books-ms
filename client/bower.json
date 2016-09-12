@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "license": "http://polymer.github.io/LICENSE.txt",
   "dependencies": {
-    "iron-elements": "https://github.com/PolymerElements/iron-elements#1.0.0",
-    "paper-elements": "https://github.com/PolymerElements/paper-elements#1.0.1",
-    "platinum-elements": "https://github.com/PolymerElements/platinum-elements#1.0.0",
-    "page": "visionmedia/page.js#~1.6.3"
+    "iron-elements": "1.0.0",
+    "paper-elements": "1.0.1",
+    "platinum-elements": "1.0.0",
+    "page": "~1.6.3"
   },
   "devDependencies": {
     "web-component-tester": "*",
-    "test-fixture": "https://github.com/PolymerElements/test-fixture#^1.0.0"
+    "test-fixture": "^1.0.0"
   },
   "resolutions": {
     "polymer": "^1.0.0",
@@ -68,6 +68,6 @@
     "paper-toast": "^1.0.0",
     "iron-a11y-announcer": "^1.0.0",
     "paper-toggle-button": "^1.0.0",
-    "platinum-sw": "~1.0.0"
+    "platinum-sw": "https://github.com/PolymerElements/platinum-sw#~1.0.0"
   }
 }
